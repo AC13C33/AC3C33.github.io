@@ -26,4 +26,6 @@ Here's is a direct link to about page: [about](about.html)
 I also make a bonus [extra page](extra_page.html)
 
 
+# New sections!!
 
+[Here's](plotly.html) a page with plotly plots
